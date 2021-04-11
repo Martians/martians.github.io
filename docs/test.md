@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "first test page"
-date:   2021-04-11 11:11:11 +0800
-categories: test first
+permalink: /test/
 ---
 # 目标
     很早以前看过 hyptertable 的实现，不是特别感兴趣，但是不看总觉得缺点什么
