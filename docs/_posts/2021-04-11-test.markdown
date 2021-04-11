@@ -2,7 +2,7 @@
 layout: post
 title:  "post test"
 date:   2021-04-10 11:11:11 +0800
-categories: test update
+categories: update
 ---
 # 目标
     很早以前看过 hyptertable 的实现，不是特别感兴趣，但是不看总觉得缺点什么
